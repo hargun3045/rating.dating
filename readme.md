@@ -1,6 +1,6 @@
 # Project Tiramisu
 
-- Our generation (which is a bit lousy, but I digest) deserves a better dating app
+- Our generation (which is a bit lousy, [but I digest](https://www.youtube.com/watch?v=GUCy75CA3Aw&ab_channel=HarvardUniversity)) deserves a better dating app
 
 
 ### Should we do it? 
@@ -35,9 +35,22 @@ HO: Proposed theme
 
 QUESTION TO RUSHALI
 
-Yay! or Nay? 
+1. Yay! or Nay? 
 
 RP: "Yay!" 
+
+2. When do we buy a domain?
+
+HO: "Once we have a working prototype"
+
+3. What to do to have a working prototype?
+
+- [ ] Brainstorm
+
+- [ ] Wireframe
+
+- [ ] Prototype 
+
 
 ## Competition 
 
@@ -49,6 +62,10 @@ RP: "Yay!"
 ## RANDOM GOLD
 
 [RATING MY GIRLFRIEND?](https://www.quora.com/My-girlfriend-asked-me-what-her-attractiveness-rating-is-and-I-said-7-Now-she-is-really-upset-What-did-I-do-wrong)
+
+
+
+
 
 
 
